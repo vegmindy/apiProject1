@@ -1,0 +1,112 @@
+#logo {
+    width: 400px;
+}
+
+body {
+    background-color: rgb(233, 232, 232);
+}
+
+img {
+    width: 2.5em;
+    position: relative;
+}
+
+#castle {
+    left: 8px;
+    top: -1430px;
+}
+
+#grave {
+    left: -36px;
+    top: -1355px;
+}
+
+#totoro{
+    left: -80px;
+    top: -1285px;
+}
+
+#kikis{
+    left: -125px;
+    top: -1222px;
+}
+
+#yesterday{
+    left: -168px;
+    top: -1150px;
+}
+
+#porco{
+    left: -212px;
+    top: -1070px;
+}
+
+#poko{
+    left: -257px;
+    top: -990px;
+}
+
+#whisper{
+    left: -300px;
+    top: -910px;
+}
+
+#princess{
+    left: -345px;
+    top: -830px;
+}
+
+#yamadas{
+    left: -389px;
+    top: -760px;
+}
+
+#spirited{
+    left: -431px;
+    top: -690px;
+}
+
+#cat{
+    left: -477px;
+    top: -620px
+}
+
+#howls{
+    left: -520px;
+    top: -548px;
+}
+
+#earthsea{
+    left: -564px;
+    top: -480px;
+}
+
+#ponyo{
+    left: -608px;
+    top: -395px;
+}
+
+#arrietty{
+    left: -652px;
+    top: -322px;
+}
+
+#poppy{
+    left: -696px;
+    top: -260px;
+}
+
+#wind{
+    left: -740px;
+    top: -195px;
+}
+
+#kaguya{
+    left: -784px;
+    top: -135px
+}
+
+#marnie{
+    left: -828px;
+    top: -70px ;
+}
